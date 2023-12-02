@@ -7,7 +7,7 @@ Desenvolver um sistema com reconhecimento de voz.
 | :sparkles: Nome        | **Jogo acerte o número**
 | :label: Tecnologias | javascript, html, css
 | :rocket: URL         | https://github.com/Bpelossi
-| :fire: Desafio     | https://url-do-desafio.com.br
+| :fire: Desafio     | 
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 ![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
