@@ -2,7 +2,7 @@
 
 Desenvolver um sistema com reconhecimento de voz.
 
-| :placard: Vitrine.Dev |     |
+| :placard: Vitrine.Dev | https://cursos.alura.com.br/vitrinedev/brunopelossi    |
 | -------------  | --- |
 | :sparkles: Nome        | **Jogo acerte o número**
 | :label: Tecnologias | javascript, html, css
